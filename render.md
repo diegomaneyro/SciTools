@@ -58,7 +58,7 @@ Aprender:
 
 ### Plano
 
-![](.\src\planos\cubo.png)
+![](src/planos/cubo.png)
 
 ---
 
