@@ -11,7 +11,7 @@ El objetivo de este proyecto es desarrollar habilidades de dibujo técnico, mode
 | Estado | Pieza |
 |---------|-------|
 | ✅ | Cubo |
-| ⬜ | Prisma rectangular |
+| ✅ | Prisma cilindrado |
 | ⬜ | Placa con agujeros |
 | ⬜ | Arandela |
 | ⬜ | Casquillo |
@@ -62,16 +62,19 @@ Aprender:
 
 ---
 
-# 02 - Prisma rectangular
+# 02 - Prisma semi cilindrado
 
 ## Objetivo
 
 - Vistas ortogonales
 - Acotado
+- Chaflan
+- Filete
+- cilindrado
 
 ### Plano
 
-![](imagenes/02_prisma_rectangular.png)
+![](src/planos/prisma_1.png)
 
 ---
 
