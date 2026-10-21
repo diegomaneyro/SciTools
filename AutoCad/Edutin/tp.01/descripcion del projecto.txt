@@ -1,0 +1,35 @@
+Instrucciones para la actividad
+📌 Paso 1 — Análisis y diseño base
+Inicia el diseño aplicando los comandos de geometría básica:
+
+Utiliza: líneas, polilíneas, rectángulo, polígono, círculos, arcos e elipses.
+Analiza la geometría de referencia antes de trazar para identificar puntos de centro y tangencias.
+📌 Paso 2 — Edición y modificación
+Ajusta la geometría para que coincida exactamente con la referencia:
+
+Mover e girar: para organizar los elementos en el espacio de trabajo.
+Recortar y alargar: para perfeccionar las intersecciones.
+Desfase, chaflán e empalme: para dar los acabados mecánicos finales.
+📌 Paso 3 — Dimensionamiento y verificación
+Asegura la coherencia técnica del archivo:
+
+Tarefa Objetivo técnico
+Dimensiones Añadir cotas asegurando escala y proporción.
+Verificación Confirmar que cada pieza esté completa y organizada.
+📌 Paso 4 — Registro de evidencias
+Registre el proceso mediante capturas de tela y evidencie cada uno de los dos pasos con una descripción breve.
+
+Dica para el relatório:
+Cada captura debe mostrar el comando utilizado sin aviso de AutoCAD para demostrar al dominio técnico las herramientas.
+📌 Paso 5 — alternativas
+Si no cuentas con acceso a AutoCAD, puedes realizar:
+
+Análisis detallado paso a paso de cómo construirías las piezas del enlace.
+Informe de comandos aplicados tras observar tutoriales de creación mecánica.
+Esquema de análisis de piezas en figuras básicas y comandos asociados.
+Rúbrica de evaluación
+Criterio de evaluación Descripción Porcentaje
+Funcional Construção correta das peças, aplicando os comandos aprendidos na unidade.	40%
+Estilo Claridade e coerência na presentación del proceso.	25%
+Ética Originalidad del trabajo y uso adecuado de la información.	15%
+Participación y actitud Cumplimiento de las instrucciones y entrega oportuna.	20%

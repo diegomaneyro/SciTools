@@ -1,0 +1,5 @@
+elegir plantilla:
+New, Browse Templates(acad: sistema ingles,acadiso: metrico) 
+
+DWGUNITS: definir unidad de medidas para trabajar en el plano 
+units: muestra los parámetros que quedaron configurados
